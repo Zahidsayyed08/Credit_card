@@ -10,6 +10,10 @@ The **Credit Card Statement Parser** uses **Optical Character Recognition (OCR)*
 It accurately identifies **5 key data points** across **5 major credit card issuers**.
 
 ---
+## 🎥 Demo Video
+
+[![Watch Demo]](https://github.com/Zahidsayyed08/Credit_card/releases/download/demo/demo.mp4)
+> Click to watch the full demo.
 
 ## ✨ Key Features
 
